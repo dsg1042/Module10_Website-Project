@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: blue;
+    /*What I did here is I have sets the page’s background color to blueviolet and prints Hello on the page using h1 style in lightblue*/
+}
+
+h1:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
